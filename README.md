@@ -1,5 +1,8 @@
-#Manual links
-S3 - http://rss-ipanf-bucket.s3-website-eu-west-1.amazonaws.com/
+#Links
+S3 bucket - http://rss-ipanf-bucket.s3-website-eu-west-1.amazonaws.com/
+
+S3 bucket (403 error) - http://rss-ipanf-cf3.s3-website-eu-west-1.amazonaws.com/
+Cloudfront - https://d1ycxk1j3w24z3.cloudfront.net/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
