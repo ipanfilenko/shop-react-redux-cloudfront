@@ -1,3 +1,6 @@
+#Manual links
+S3 - http://rss-ipanf-bucket.s3-website-eu-west-1.amazonaws.com/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
